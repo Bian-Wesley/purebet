@@ -1,4 +1,4 @@
-var connection = new solanaWeb3.Connection("https://spring-frosty-snowflake.solana-mainnet.discover.quiknode.pro/5584f3ace79637af8f83a6f135554af9e0f0ffca/");
+var connection = new solanaWeb3.Connection("solana rpc goes hereXXXXX");
 var programID = new solanaWeb3.PublicKey("39mBcnQ27QA9nNZmM6VrumE2vtqs5v3HD7t7RGv9kXUV");
 
 async function showAccs(id1, id2){
